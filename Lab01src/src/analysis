@@ -1,0 +1,4 @@
+The program has a run time of O(n), n being
+the length of the gain array - 1. And, disregarding the lower
+order values of 3n+ 2. The highetAltitude method requires
+a space of θ(n).
